@@ -1,0 +1,6 @@
+[submodule "pia"]
+	path = pia
+	url = https://github.com/LINCnil/pia.git
+[submodule "pia-back"]
+	path = pia-back
+	url = https://github.com/vdurdux/pia-back.git
