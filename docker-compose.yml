@@ -24,8 +24,8 @@ services:
       - 0.0.0.0:8080:80
 
   database:
-    container_name: LINCnil-pia-db
-    image: postgres:11.0
+    container_name: kosmas58-pia-db
+    image: library/postgres:12.5
     restart: always
     environment:
       POSTGRES_PASSWORD: 'somepassword'
